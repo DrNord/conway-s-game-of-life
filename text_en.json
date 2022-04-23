@@ -1,0 +1,106 @@
+{
+  "title": "Game&nbsp;of&nbsp;Life",
+  "hud_total": "Total: ",
+  "hud_size": "Size#: ",
+  "hud_cell": "Cell#: ",
+  "hud_alive": "Alive: ",
+  "hud_epoch": "Epoch: ",
+
+  "lang_switch": {"innerHTML": null, "title": "Включить русский язык" },
+  "playPause": {"innerHTML": null, "title": "Play/Pause" },
+  "play_epoch": {"innerHTML": null, "title": "Evolve once" },
+
+  "fullwindow": {"innerHTML": null, "title": "Fullwindow switch" },
+  "fit_field": {"innerHTML": null, "title": "Fit the game field into the client area and restart" },
+  "restart": {"innerHTML": null, "title": "Fill randomly" },
+
+  "game_edit_invert": {"innerHTML": null, "title": "Edit: invert mode" },
+  "game_edit_erase": {"innerHTML": null, "title": "Edit: erase mode" },
+  "game_edit_add": {"innerHTML": null, "title": "Edit: spawn mode" },
+  "game_edit_evolution": {"innerHTML": null, "title": "Evolution-on-mousemove mode" },
+  "game_edit_all_spawn_kill": {"innerHTML": null, "title": "Spawn/kill life in all cells" },
+
+  "game_info": {"innerHTML": null, "title": "Game info" },
+  "game_settings": {"innerHTML": null, "title": "Game settings" },
+  "switch_audio": {"innerHTML": null, "title": "Switch audio" },
+  "fullscreen": {"innerHTML": null, "title": "Fullscreen switch" },
+  "switchLight": {"innerHTML": null, "title": "Dark <-> Light mode" },
+
+  "hud_info_switch": {"innerHTML": null, "title": "Switch cells info" },
+  "savegame": {"innerHTML": null, "title": "Save game" },
+  "loadgame": {"innerHTML": null, "title": "Load game" },
+
+  "zoomOut": {"innerHTML": null, "title": "Zoom Out" },
+  "zoom_slider": {"innerHTML": null, "title": "Zoom slider" },
+  "zoomIn": {"innerHTML": null, "title": "Zoom In" },
+
+  "volume_minus": {"innerHTML": null, "title": "Sound quieter" },
+  "volume_slider": {"innerHTML": null, "title": "Volume slider" },
+  "volume_plus": {"innerHTML": null, "title": "Sound louder" },
+
+  "speed_slower": {"innerHTML": null, "title": "Simulation slower" },
+  "t_epoch": {"innerHTML": null, "title": "Simulation speed" },
+  "speed_faster": {"innerHTML": null, "title": "Simulation faster" },
+
+  "drNord": "&copy;&nbsp;2021 Dr. Nord",
+  "info_on_hover": {"innerHTML": null, "title": "Dr. Nord's GitHub page: https://drnord.github.io/" },
+
+  "gs_title": "Game settings",
+  "gs_fieldSize": "Field size\n(<i>please be reasonable</i>)",
+  "gs_w": "Width",
+  "gs_h": "Height",
+  "gs_p": "Probability of spawn:",
+  "gs_slider": "Simulation speed slider",
+  "gs_f": "Fastest, ms:",
+  "gs_s": "Slowest, ms:",
+  "gs_apply": "Apply",
+  "gs_cancel": "Cancel",
+
+  "gi_h1": "The Conway's Game&nbsp;of&nbsp;Life",
+  "gi_h2": "by <strong>Dr. Nord</strong>",
+  "gi_h2-2": "(v2.0.0, Apr 23, 2022)",
+  "gi_h2-3": "Watch primitive cells evolve in their primitive universe",
+
+  "gi_txt01": "The famous <strong>Game of Life</strong> is a cellular automaton invented in 1970 by <em>John Horton Conway</em> - the British mathematician.",
+  "gi_txt02": "It is a <strong>zero-player</strong> game&nbsp;- the initial state fully determines the game evolution. No further input is required.",
+
+  "gi_txt03": "Nevertheless, the game realization includes <b>advanced controls</b>:",
+  "gi_txt04": "<b>drag-n-drop</b> any picture (jpeg, png) into the game field to see it evolve;",
+  "gi_txt05": "use the <b>mouse wheel</b> to scale the game field;",
+  "gi_txt06": "<b>click-n-move</b> the mouse to navigate through the game field;",
+  "gi_txt07": "see below for <b>more</b>.",
+
+  "gi_txt08": "Using a <b>touchscreen</b> device (smartphone or tablet) may improve your gaming experience:",
+  "gi_txt09": "<b>swipe</b> (using 1 or 2 fingers) to navigate through the game field;",
+  "gi_txt10": "<b>pinch/expand</b> using 2 fingers to scale the game field.",
+
+  "gi_txt11": "Switch to <b>edit</b> mode and use your mouse or touchscreen to:",
+  "gi_txt12": "- add cells;",
+  "gi_txt13": "- delete cells;",
+  "gi_txt14": "- invert cells;",
+  "gi_txt15": "- clean/fill the whole field;",
+  "gi_txt16": "- evolve <b>once</b> (single tap) or <b>continuously</b> (tap-and-move), try when paused.",
+
+  "gi_txt17": "The sliders button is located in the lowest right corner and opens <b>additional parameters</b>:",
+  "gi_txt18": "- the <b>HUD info</b> switch, which displays the current game information;",
+  "gi_txt19": "- the <b>Save</b> and <b>Load</b> buttons, you may save your current game state as an image and choose any <b>picture</b> (jpeg, png) to load - the game will interpret its pixels as dead or alive cells dependent on their brightness;",
+  "gi_txt20": "- these sliders allow you to <b>scale</b> the field, change sound <b>volume</b> and evolution <b>speed</b>.",
+
+  "gi_txt21": "The <b>basic game interface</b> also includes:",
+  "gi_txt22": "- the Play/Pause button;",
+  "gi_txt23": "- evolve manually by a single click;",
+  "gi_txt24": "- expand/compress the game area by hiding/showing menu bars;",
+  "gi_txt25": "- reveal the menu (this button appears in the top right corner when the game area is expanded);",
+  "gi_txt26": "- spawn cells randomly;",
+  "gi_txt27": "- resize the game field to fit the available area and spawn cells randomly.",
+
+  "gi_txt28": "The <b>footer menu</b> consists of:",
+  "gi_txt29": "- this info;",
+  "gi_txt30": "- settings button, where you can manually set game field <b>size</b>, cells spawn <b>probability</b>, evolution speed <b>slider limits</b>;",
+  "gi_txt31": "- sound <b>mute</b> switch, <b>full window</b> expand/compress switch, <b>Day/Night mode</b> switch.",
+
+
+  "gi_txt99": "Have fun!",
+
+  "dummy": ""
+}
