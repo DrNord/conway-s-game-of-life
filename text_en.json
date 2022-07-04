@@ -1,4 +1,5 @@
 {
+  "page_title": "Game of Life",
   "title": "Game&nbsp;of&nbsp;Life",
   "hud_total": "Total: ",
   "hud_size": "Size#: ",
@@ -58,7 +59,7 @@
 
   "gi_h1": "The Conway's Game&nbsp;of&nbsp;Life",
   "gi_h2": "by <strong>Dr. Nord</strong>",
-  "gi_h2-2": "(v2.0.0, Apr 23, 2022)",
+  "gi_h2-2": "(v2.0.1, Jul 4, 2022)",
   "gi_h2-3": "Watch primitive cells evolve in their primitive universe",
 
   "gi_txt01": "The famous <strong>Game of Life</strong> is a cellular automaton invented in 1970 by <em>John Horton Conway</em> - the British mathematician.",
